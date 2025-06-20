@@ -184,10 +184,10 @@
 #3......................................maximum numbers
 
 
-max_num = lambda a, b: a if a > b else b
-n1 = int(input("Enter 1st number: "))
-n2 = int(input("Enter 2nd number: "))
-print("The greater number is:", max_num(n1,2))
+# max_num = lambda a, b: a if a > b else b
+# n1 = int(input("Enter 1st number: "))
+# n2 = int(input("Enter 2nd number: "))
+# print("The greater number is:", max_num(n1,2))
 
 
 
