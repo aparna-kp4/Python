@@ -58,4 +58,26 @@
 # a.display()
 
 
+# class BankAccount:
+#     def _init_(self,account_holder,balance):
+#         self.account_holder=account_holder
+#         self.balance=balance
+#     def deposit(self,dep):
+#         if dep<0:
+#             print('Invalid Amount!!')
+#         else:
+#             self.balance+=dep
+#             print('Current balance:',self.balance)
+#     def withdraw(self,wid):
+#         if wid<0:
+#             print('Invalid Amount!!')
+#         else:
+#             self.balance-=wid
+#             print('Current balance:',self.balance)
+#     def details(self):
+#         print('Account details','\nAccount holder:',self.account_holder,'\nBalance:',self.balance)
 
+# ab=BankAccount('Tina',1231)
+# ab.deposit(9)
+# ab.withdraw(1)
+# ab.details()
